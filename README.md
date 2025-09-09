@@ -115,4 +115,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
-Created by [Hitkar Miglani](https://github.com/HitkarMiglani)
+Created by [Kashish](https://github.com/kh9073)
