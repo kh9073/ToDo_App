@@ -2,7 +2,7 @@
 
 A simple, elegant and efficient Todo List web application built with vanilla JavaScript and HTML/CSS.
 
-![Todo App](https://raw.githubusercontent.com/HitkarMiglani/TodoApp/refs/heads/master/image.png)
+![Todo App](https://github.com/kh9073/ToDo_App/blob/main/image.png)
 
 ## Features
 
@@ -82,7 +82,7 @@ Tasks are stored in the browser's localStorage, allowing them to persist between
 1. Clone the repository:
 
    ```
-   git clone https://github.com/HitkarMiglani/TodoApp.git
+   git clone https://github.com/kh9073/ToDo_App
    ```
 
 2. Open `index.html` in your browser
